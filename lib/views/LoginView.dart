@@ -13,7 +13,6 @@ class LoginView extends StatefulWidget {
 }
 
 class _LoginViewPageState extends State<LoginView> {
-
   final mobileTextController =   TextEditingController() ;
   final smsTextController =TextEditingController();
 
